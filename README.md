@@ -1,5 +1,7 @@
 ## Your GitHub Learning Lab Repository for Intro to HTML
 
+The link to webpage specific to this project: [Intro to HTML](https://gitmedenis.github.io/intro-html)
+
 Welcome to your repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through.
 
 Oh! I haven't introduced myself...
